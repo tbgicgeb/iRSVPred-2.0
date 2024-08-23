@@ -4,7 +4,7 @@ iRSVPred 2.0: It is an update of the iRSVPred web server that is trained and eva
 ## Available on [Play Store](https://play.google.com/store/apps/details?id=org.icgeb.irsvpred_2)
 
 <div align="center">
-  <img src="https://apexbtic.icgeb.res.in/rice/ss_1.jpeg" height="200px">
+  <img src="https://bioinfo.icgeb.res.in/irsvpred_2/ss_1.jpeg" height="200px">
 </div>
 
 <br>
@@ -16,16 +16,15 @@ Get the Image Classification Model developed by [Nimisha Tiwari](https://www.lin
 To know more about the deep learning model scripts and files, please visit the [Repo](https://github.com/nimitiwari08/iRSVPred_2).
 Visit our [Webserver](https://bioinfo.icgeb.res.in/irsvpred_2/index.php) for iRSVPred 2.0
 
+## Webserver
+The webpage was developed and designed by [Dr. Arun Sharma](https://www.linkedin.com/in/dr-arun-sharma-4a388733/) and [Sushmita Sharma](https://www.linkedin.com/in/sushmita-sharma-a7968977/). And visit our latest [Webserver](https://bioinfo.icgeb.res.in/irsvpred_2).
+
+## Android Application
+To know more about the Android application developed by [Hemant Kumar Joon](https://www.linkedin.com/in/hemantjoon/) please check out the [Repo](https://github.com/tbgicgeb/iRSVPred-2.0-Android-Application).
+
 ## iRSVPred (previous version) Model Git Repository  
 To know more about the Machine learning model developed by [Dr. Arun Sharma](https://github.com/arunsharma8osdd) for previous version please check out the [Repo](https://github.com/arunsharma8osdd/iRSVPred).\
 and visit our [Webserver](https://apexbtic.icgeb.res.in/rice)
-
-## Webserver Developer 
-The webpage was developed and designed by [Dr. Arun Sharma](https://www.linkedin.com/in/dr-arun-sharma-4a388733/) and [Sushmita Sharma](https://www.linkedin.com/in/sushmita-sharma-a7968977/)
-
-## Android Developer
-Android application is developed by [Hemant Kumar Joon](https://www.linkedin.com/in/hemantjoon/)
-
 
 ## License
 
