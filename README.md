@@ -13,7 +13,7 @@ iRSVPred 2.0 has been developed which provides a single model for prediction. Th
    
 ## iRSVPred 2.0 Model Git Repository  
 Get the Image Classification Model developed by [Nimisha Tiwari](https://www.linkedin.com/in/nimisha-tiwari-708b92153/) at [iRSVPred 2.0](https://github.com/nimitiwari08/iRSVPred_2)
-To know more about the deep learning model scripts and files, please visit the [Repo](https://github.com/nimitiwari08/iRSVPred_2).
+To download the model augmentation scripts files, please visit the [Repo](https://github.com/nimitiwari08/iRSVPred_2).
 Visit our [Web server](https://bioinfo.icgeb.res.in/irsvpred_2/index.php) for iRSVPred 2.0.
 
 ## Web server
